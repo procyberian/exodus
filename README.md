@@ -2,8 +2,9 @@
 
 From nonfree distributions to free software PSD 
 
-
 # License
+
+From nonfree distributions to free software PSD 
 
 Copyright (C) 2024-2025 QB Networks
 
